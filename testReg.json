@@ -1,10 +1,10 @@
 {
-    "firstName": "testString",
-    "lastName": "testString",
+    "firstName": "First",
+    "lastName": "Last",
     "email": "thneed@pm.me",
     "confirmEmail": "thneed@pm.me",
-    "jobTitle": "testString",
-    "companyType": "testString",
+    "jobTitle": "Job Title",
+    "station": true,
     "address": "testString",
     "city": "testString",
     "state": "testString",
@@ -15,5 +15,6 @@
     "departureDate": "2022-11-25T09:00:00Z",
     "firstTime": true,
     "newcomers": true,
-    "stayAtHotel": true
+    "stayAtHotel": true,
+    "totalEventCharge": 575
 }

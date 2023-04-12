@@ -22,9 +22,8 @@ const registrationSchema = new Schema({
         type: String,
         required: true
     },
-    companyType: {
-        type: String,
-        required: true
+    station: {
+        type: Boolean,
     },
     address: {
         type: String,
@@ -60,15 +59,16 @@ const registrationSchema = new Schema({
     },
     firstTime: {
         type: Boolean,
-        required: true
     },
     newcomers: {
         type: Boolean,
-        required: true
     },
     stayAtHotel: {
         type: Boolean,
         required: true
+    },
+    totalEventCharge: {
+        type: Number,
     }
 }, {timestamps: true})
 

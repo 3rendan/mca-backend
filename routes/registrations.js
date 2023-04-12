@@ -16,5 +16,4 @@ router.post('/', createRegistration)
 router.delete('/:id', deleteRegistration)
 router.patch('/:id', updateRegistration)
 
-
 module.exports = router
