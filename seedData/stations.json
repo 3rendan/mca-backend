@@ -1,0 +1,1502 @@
+[
+  {
+    "station": "APT"
+  },
+  {
+    "station": "Arkansas PBS"
+  },
+  {
+    "station": "Connecticut Public"
+  },
+  {
+    "station": "Georgia Public Broadcasting"
+  },
+  {
+    "station": "PBS Hawaii"
+  },
+  {
+    "station": "Idaho Public Television PBS"
+  },
+  {
+    "station": "Iowa PBS"
+  },
+  {
+    "station": "KACV / Panhandle PBS"
+  },
+  {
+    "station": "KAET / Arizona PBS"
+  },
+  {
+    "station": "KAKM / Alaska Public Media"
+  },
+  {
+    "station": "KAMU"
+  },
+  {
+    "station": "KAWE / Lakeland PBS"
+  },
+  {
+    "station": "KBDI / PBS12"
+  },
+  {
+    "station": "KBTC"
+  },
+  {
+    "station": "KCETLink/ Public Media Group of Southern California"
+  },
+  {
+    "station": "KCOS / PBS El Paso"
+  },
+  {
+    "station": "KCPT / Kansas City PBS"
+  },
+  {
+    "station": "KCTS / Cascade Public Media"
+  },
+  {
+    "station": "KEDT Center for Educational Broadcasting"
+  },
+  {
+    "station": "KEET"
+  },
+  {
+    "station": "Kentucky Educational Television / KET"
+  },
+  {
+    "station": "KENW PBS New Mexico"
+  },
+  {
+    "station": "KERA"
+  },
+  {
+    "station": "KETC / Nine PBS"
+  },
+  {
+    "station": "KGTF / PBS Guam"
+  },
+  {
+    "station": "KIXE"
+  },
+  {
+    "station": "KLCS"
+  },
+  {
+    "station": "KLRN"
+  },
+  {
+    "station": "KLRU / Austin PBS"
+  },
+  {
+    "station": "KLVX / Vegas PBS"
+  },
+  {
+    "station": "KMOS"
+  },
+  {
+    "station": "KNME / NMPBS"
+  },
+  {
+    "station": "KNPB / PBS Reno"
+  },
+  {
+    "station": "KOCE/ PBS SoCal/ Public Media Group of Southern California"
+  },
+  {
+    "station": "KOOD / Smoky Hills PBS"
+  },
+  {
+    "station": "KOZK / Ozarks Public Television"
+  },
+  {
+    "station": "KPBS"
+  },
+  {
+    "station": "KPBT / Basin PBS"
+  },
+  {
+    "station": "KPJK/Northern California Public Media"
+  },
+  {
+    "station": "KPTS / PBS Kansas"
+  },
+  {
+    "station": "KQED"
+  },
+  {
+    "station": "KQEH/KQED Plus"
+  },
+  {
+    "station": "KRCB/Northern California Public Media"
+  },
+  {
+    "station": "KRMA/Rocky Mountain PBS"
+  },
+  {
+    "station": "KRSU / RSU Public Television"
+  },
+  {
+    "station": "KRWG"
+  },
+  {
+    "station": "KSMQ"
+  },
+  {
+    "station": "KSPS PBS"
+  },
+  {
+    "station": "KSYS / Southern Oregon PBS"
+  },
+  {
+    "station": "TPT / Twin Cities PBS"
+  },
+  {
+    "station": "KTOO / Alaska Public Media"
+  },
+  {
+    "station": "KTTZ"
+  },
+  {
+    "station": "KTWU"
+  },
+  {
+    "station": "KUAC / University of Alaska"
+  },
+  {
+    "station": "KUAT / Arizona Public Media"
+  },
+  {
+    "station": "KUED / PBS Utah"
+  },
+  {
+    "station": "KUEN"
+  },
+  {
+    "station": "KUHT / Houston Public Media"
+  },
+  {
+    "station": "KVCR / Empire PBS"
+  },
+  {
+    "station": "PBS KVIE"
+  },
+  {
+    "station": "KVPT / ValleyPBS"
+  },
+  {
+    "station": "KWCM / Pioneer PBS"
+  },
+  {
+    "station": "KWSU / Northwest Public Broadcasting"
+  },
+  {
+    "station": "Louisiana Public Broadcasting"
+  },
+  {
+    "station": "Maine Public"
+  },
+  {
+    "station": "Maryland Public Television"
+  },
+  {
+    "station": "Mississippi Public Broadcasting"
+  },
+  {
+    "station": "Montana PBS"
+  },
+  {
+    "station": "PBS North Carolina"
+  },
+  {
+    "station": "Prairie Public"
+  },
+  {
+    "station": "Nebraska Public Media"
+  },
+  {
+    "station": "New Hampshire PBS"
+  },
+  {
+    "station": "NJTV"
+  },
+  {
+    "station": "Oklahoma Educational Television Authority"
+  },
+  {
+    "station": "Oregon Public Broadcasting"
+  },
+  {
+    "station": "South Carolina ETV"
+  },
+  {
+    "station": "South Dakota Public Broadcasting"
+  },
+  {
+    "station": "Vermont PBS"
+  },
+  {
+    "station": "WBGU"
+  },
+  {
+    "station": "WBRA / Blue Ridge PBS"
+  },
+  {
+    "station": "WCET"
+  },
+  {
+    "station": "WCFE / Mountain Lake PBS"
+  },
+  {
+    "station": "WCMU / CMU Public Broadcasting"
+  },
+  {
+    "station": "WCNY"
+  },
+  {
+    "station": "WCTE / Upper Cumberland PBS"
+  },
+  {
+    "station": "WCVE / VPM Media Corporation"
+  },
+  {
+    "station": "WDCQ / Delta Broadcasting"
+  },
+  {
+    "station": "WDSC"
+  },
+  {
+    "station": "WDSE"
+  },
+  {
+    "station": "WEDU PBS"
+  },
+  {
+    "station": "WEFS"
+  },
+  {
+    "station": "WEIU"
+  },
+  {
+    "station": "WETA"
+  },
+  {
+    "station": "WETP / East Tennessee PBS"
+  },
+  {
+    "station": "WFSU"
+  },
+  {
+    "station": "WFWA / PBS39"
+  },
+  {
+    "station": "WFYI"
+  },
+  {
+    "station": "WGBH"
+  },
+  {
+    "station": "WGBY / New England Public Media"
+  },
+  {
+    "station": "WGCU"
+  },
+  {
+    "station": "WGTE"
+  },
+  {
+    "station": "WGVU"
+  },
+  {
+    "station": "WHRO"
+  },
+  {
+    "station": "WHUT / Howard University Television"
+  },
+  {
+    "station": "WHYY"
+  },
+  {
+    "station": "WILL / Illinois Public Media"
+  },
+  {
+    "station": "WIPB / Ball State PBS"
+  },
+  {
+    "station": "WIPR"
+  },
+  {
+    "station": "PBS Wisconsin"
+  },
+  {
+    "station": "WITF"
+  },
+  {
+    "station": "WJCT / Jax PBS"
+  },
+  {
+    "station": "WKAR"
+  },
+  {
+    "station": "WKNO"
+  },
+  {
+    "station": "WKYU / WKU PBS"
+  },
+  {
+    "station": "WLAE / New Orleans Public Television"
+  },
+  {
+    "station": "WLIW 21"
+  },
+  {
+    "station": "WLJT / WestTN PBS"
+  },
+  {
+    "station": "WLRN"
+  },
+  {
+    "station": "WLVT / PBS39"
+  },
+  {
+    "station": "WMHT Educational Telecommunications"
+  },
+  {
+    "station": "WMTJ"
+  },
+  {
+    "station": "WMVS / Milwaukee Public Television"
+  },
+  {
+    "station": "WNED / Buffalo Toronto Public Media"
+  },
+  {
+    "station": "WNEO / Western Reserve Public Media"
+  },
+  {
+    "station": "WNET / New York Public Media"
+  },
+  {
+    "station": "WNIN"
+  },
+  {
+    "station": "WNIT"
+  },
+  {
+    "station": "WNMU"
+  },
+  {
+    "station": "WNPT/Nashville Public Television"
+  },
+  {
+    "station": "NYC Media Group/MOME"
+  },
+  {
+    "station": "WOSU"
+  },
+  {
+    "station": "WOUB"
+  },
+  {
+    "station": "WPBA / ATL PBA TV"
+  },
+  {
+    "station": "WPBS"
+  },
+  {
+    "station": "WPBT/South Florida PBS"
+  },
+  {
+    "station": "WPSU"
+  },
+  {
+    "station": "WPTD / Think TV"
+  },
+  {
+    "station": "WPTO / Think TV"
+  },
+  {
+    "station": "WQED"
+  },
+  {
+    "station": "WQLN"
+  },
+  {
+    "station": "WQPT"
+  },
+  {
+    "station": "WSBE / Rhode Island PBS"
+  },
+  {
+    "station": "WSIU"
+  },
+  {
+    "station": "WSKG Public Broadcasting"
+  },
+  {
+    "station": "WSRE"
+  },
+  {
+    "station": "WTCI"
+  },
+  {
+    "station": "WTIU"
+  },
+  {
+    "station": "WTJX"
+  },
+  {
+    "station": "WTTW"
+  },
+  {
+    "station": "WTVI / PBS Charlotte"
+  },
+  {
+    "station": "WTVP"
+  },
+  {
+    "station": "WTVS / Detroit Public Television"
+  },
+  {
+    "station": "WUCF"
+  },
+  {
+    "station": "WUFT"
+  },
+  {
+    "station": "WVIA"
+  },
+  {
+    "station": "West Virginia Public Broadcasting"
+  },
+  {
+    "station": "WVIZ / PBS ideastream"
+  },
+  {
+    "station": "WVPT / VPM Media Corporation"
+  },
+  {
+    "station": "WVUT"
+  },
+  {
+    "station": "WXEL/South Florida PBS"
+  },
+  {
+    "station": "WXXI"
+  },
+  {
+    "station": "WYES"
+  },
+  {
+    "station": "WYIN / Lakeshore PBS"
+  },
+  {
+    "station": "Wyoming PBS"
+  },
+  {
+    "station": "APT"
+  },
+  {
+    "station": "Arkansas PBS"
+  },
+  {
+    "station": "Connecticut Public"
+  },
+  {
+    "station": "Georgia Public Broadcasting"
+  },
+  {
+    "station": "PBS Hawaii"
+  },
+  {
+    "station": "Idaho Public Television PBS"
+  },
+  {
+    "station": "Iowa PBS"
+  },
+  {
+    "station": "KACV / Panhandle PBS"
+  },
+  {
+    "station": "KAET / Arizona PBS"
+  },
+  {
+    "station": "KAKM / Alaska Public Media"
+  },
+  {
+    "station": "KAMU"
+  },
+  {
+    "station": "KAWE / Lakeland PBS"
+  },
+  {
+    "station": "KBDI / PBS12"
+  },
+  {
+    "station": "KBTC"
+  },
+  {
+    "station": "KCETLink/ Public Media Group of Southern California"
+  },
+  {
+    "station": "KCOS / PBS El Paso"
+  },
+  {
+    "station": "KCPT / Kansas City PBS"
+  },
+  {
+    "station": "KCTS / Cascade Public Media"
+  },
+  {
+    "station": "KEDT Center for Educational Broadcasting"
+  },
+  {
+    "station": "KEET"
+  },
+  {
+    "station": "Kentucky Educational Television / KET"
+  },
+  {
+    "station": "KENW PBS New Mexico"
+  },
+  {
+    "station": "KERA"
+  },
+  {
+    "station": "KETC / Nine PBS"
+  },
+  {
+    "station": "KGTF / PBS Guam"
+  },
+  {
+    "station": "KIXE"
+  },
+  {
+    "station": "KLCS"
+  },
+  {
+    "station": "KLRN"
+  },
+  {
+    "station": "KLRU / Austin PBS"
+  },
+  {
+    "station": "KLVX / Vegas PBS"
+  },
+  {
+    "station": "KMOS"
+  },
+  {
+    "station": "KNME / NMPBS"
+  },
+  {
+    "station": "KNPB / PBS Reno"
+  },
+  {
+    "station": "KOCE/ PBS SoCal/ Public Media Group of Southern California"
+  },
+  {
+    "station": "KOOD / Smoky Hills PBS"
+  },
+  {
+    "station": "KOZK / Ozarks Public Television"
+  },
+  {
+    "station": "KPBS"
+  },
+  {
+    "station": "KPBT / Basin PBS"
+  },
+  {
+    "station": "KPJK/Northern California Public Media"
+  },
+  {
+    "station": "KPTS / PBS Kansas"
+  },
+  {
+    "station": "KQED"
+  },
+  {
+    "station": "KQEH/KQED Plus"
+  },
+  {
+    "station": "KRCB/Northern California Public Media"
+  },
+  {
+    "station": "KRMA/Rocky Mountain PBS"
+  },
+  {
+    "station": "KRSU / RSU Public Television"
+  },
+  {
+    "station": "KRWG"
+  },
+  {
+    "station": "KSMQ"
+  },
+  {
+    "station": "KSPS PBS"
+  },
+  {
+    "station": "KSYS / Southern Oregon PBS"
+  },
+  {
+    "station": "TPT / Twin Cities PBS"
+  },
+  {
+    "station": "KTOO / Alaska Public Media"
+  },
+  {
+    "station": "KTTZ"
+  },
+  {
+    "station": "KTWU"
+  },
+  {
+    "station": "KUAC / University of Alaska"
+  },
+  {
+    "station": "KUAT / Arizona Public Media"
+  },
+  {
+    "station": "KUED / PBS Utah"
+  },
+  {
+    "station": "KUEN"
+  },
+  {
+    "station": "KUHT / Houston Public Media"
+  },
+  {
+    "station": "KVCR / Empire PBS"
+  },
+  {
+    "station": "PBS KVIE"
+  },
+  {
+    "station": "KVPT / ValleyPBS"
+  },
+  {
+    "station": "KWCM / Pioneer PBS"
+  },
+  {
+    "station": "KWSU / Northwest Public Broadcasting"
+  },
+  {
+    "station": "Louisiana Public Broadcasting"
+  },
+  {
+    "station": "Maine Public"
+  },
+  {
+    "station": "Maryland Public Television"
+  },
+  {
+    "station": "Mississippi Public Broadcasting"
+  },
+  {
+    "station": "Montana PBS"
+  },
+  {
+    "station": "PBS North Carolina"
+  },
+  {
+    "station": "Prairie Public"
+  },
+  {
+    "station": "Nebraska Public Media"
+  },
+  {
+    "station": "New Hampshire PBS"
+  },
+  {
+    "station": "NJTV"
+  },
+  {
+    "station": "Oklahoma Educational Television Authority"
+  },
+  {
+    "station": "Oregon Public Broadcasting"
+  },
+  {
+    "station": "South Carolina ETV"
+  },
+  {
+    "station": "South Dakota Public Broadcasting"
+  },
+  {
+    "station": "Vermont PBS"
+  },
+  {
+    "station": "WBGU"
+  },
+  {
+    "station": "WBRA / Blue Ridge PBS"
+  },
+  {
+    "station": "WCET"
+  },
+  {
+    "station": "WCFE / Mountain Lake PBS"
+  },
+  {
+    "station": "WCMU / CMU Public Broadcasting"
+  },
+  {
+    "station": "WCNY"
+  },
+  {
+    "station": "WCTE / Upper Cumberland PBS"
+  },
+  {
+    "station": "WCVE / VPM Media Corporation"
+  },
+  {
+    "station": "WDCQ / Delta Broadcasting"
+  },
+  {
+    "station": "WDSC"
+  },
+  {
+    "station": "WDSE"
+  },
+  {
+    "station": "WEDU PBS"
+  },
+  {
+    "station": "WEFS"
+  },
+  {
+    "station": "WEIU"
+  },
+  {
+    "station": "WETA"
+  },
+  {
+    "station": "WETP / East Tennessee PBS"
+  },
+  {
+    "station": "WFSU"
+  },
+  {
+    "station": "WFWA / PBS39"
+  },
+  {
+    "station": "WFYI"
+  },
+  {
+    "station": "WGBH"
+  },
+  {
+    "station": "WGBY / New England Public Media"
+  },
+  {
+    "station": "WGCU"
+  },
+  {
+    "station": "WGTE"
+  },
+  {
+    "station": "WGVU"
+  },
+  {
+    "station": "WHRO"
+  },
+  {
+    "station": "WHUT / Howard University Television"
+  },
+  {
+    "station": "WHYY"
+  },
+  {
+    "station": "WILL / Illinois Public Media"
+  },
+  {
+    "station": "WIPB / Ball State PBS"
+  },
+  {
+    "station": "WIPR"
+  },
+  {
+    "station": "PBS Wisconsin"
+  },
+  {
+    "station": "WITF"
+  },
+  {
+    "station": "WJCT / Jax PBS"
+  },
+  {
+    "station": "WKAR"
+  },
+  {
+    "station": "WKNO"
+  },
+  {
+    "station": "WKYU / WKU PBS"
+  },
+  {
+    "station": "WLAE / New Orleans Public Television"
+  },
+  {
+    "station": "WLIW 21"
+  },
+  {
+    "station": "WLJT / WestTN PBS"
+  },
+  {
+    "station": "WLRN"
+  },
+  {
+    "station": "WLVT / PBS39"
+  },
+  {
+    "station": "WMHT Educational Telecommunications"
+  },
+  {
+    "station": "WMTJ"
+  },
+  {
+    "station": "WMVS / Milwaukee Public Television"
+  },
+  {
+    "station": "WNED / Buffalo Toronto Public Media"
+  },
+  {
+    "station": "WNEO / Western Reserve Public Media"
+  },
+  {
+    "station": "WNET / New York Public Media"
+  },
+  {
+    "station": "WNIN"
+  },
+  {
+    "station": "WNIT"
+  },
+  {
+    "station": "WNMU"
+  },
+  {
+    "station": "WNPT/Nashville Public Television"
+  },
+  {
+    "station": "NYC Media Group/MOME"
+  },
+  {
+    "station": "WOSU"
+  },
+  {
+    "station": "WOUB"
+  },
+  {
+    "station": "WPBA / ATL PBA TV"
+  },
+  {
+    "station": "WPBS"
+  },
+  {
+    "station": "WPBT/South Florida PBS"
+  },
+  {
+    "station": "WPSU"
+  },
+  {
+    "station": "WPTD / Think TV"
+  },
+  {
+    "station": "WPTO / Think TV"
+  },
+  {
+    "station": "WQED"
+  },
+  {
+    "station": "WQLN"
+  },
+  {
+    "station": "WQPT"
+  },
+  {
+    "station": "WSBE / Rhode Island PBS"
+  },
+  {
+    "station": "WSIU"
+  },
+  {
+    "station": "WSKG Public Broadcasting"
+  },
+  {
+    "station": "WSRE"
+  },
+  {
+    "station": "WTCI"
+  },
+  {
+    "station": "WTIU"
+  },
+  {
+    "station": "WTJX"
+  },
+  {
+    "station": "WTTW"
+  },
+  {
+    "station": "WTVI / PBS Charlotte"
+  },
+  {
+    "station": "WTVP"
+  },
+  {
+    "station": "WTVS / Detroit Public Television"
+  },
+  {
+    "station": "WUCF"
+  },
+  {
+    "station": "WUFT"
+  },
+  {
+    "station": "WVIA"
+  },
+  {
+    "station": "West Virginia Public Broadcasting"
+  },
+  {
+    "station": "WVIZ / PBS ideastream"
+  },
+  {
+    "station": "WVPT / VPM Media Corporation"
+  },
+  {
+    "station": "WVUT"
+  },
+  {
+    "station": "WXEL/South Florida PBS"
+  },
+  {
+    "station": "WXXI"
+  },
+  {
+    "station": "WYES"
+  },
+  {
+    "station": "WYIN / Lakeshore PBS"
+  },
+  {
+    "station": "Wyoming PBS"
+  },
+  {
+    "station": "APT"
+  },
+  {
+    "station": "Arkansas PBS"
+  },
+  {
+    "station": "Connecticut Public"
+  },
+  {
+    "station": "Georgia Public Broadcasting"
+  },
+  {
+    "station": "PBS Hawaii"
+  },
+  {
+    "station": "Idaho Public Television PBS"
+  },
+  {
+    "station": "Iowa PBS"
+  },
+  {
+    "station": "KACV / Panhandle PBS"
+  },
+  {
+    "station": "KAET / Arizona PBS"
+  },
+  {
+    "station": "KAKM / Alaska Public Media"
+  },
+  {
+    "station": "KAMU"
+  },
+  {
+    "station": "KAWE / Lakeland PBS"
+  },
+  {
+    "station": "KBDI / PBS12"
+  },
+  {
+    "station": "KBTC"
+  },
+  {
+    "station": "KCETLink/ Public Media Group of Southern California"
+  },
+  {
+    "station": "KCOS / PBS El Paso"
+  },
+  {
+    "station": "KCPT / Kansas City PBS"
+  },
+  {
+    "station": "KCTS / Cascade Public Media"
+  },
+  {
+    "station": "KEDT Center for Educational Broadcasting"
+  },
+  {
+    "station": "KEET"
+  },
+  {
+    "station": "Kentucky Educational Television / KET"
+  },
+  {
+    "station": "KENW PBS New Mexico"
+  },
+  {
+    "station": "KERA"
+  },
+  {
+    "station": "KETC / Nine PBS"
+  },
+  {
+    "station": "KGTF / PBS Guam"
+  },
+  {
+    "station": "KIXE"
+  },
+  {
+    "station": "KLCS"
+  },
+  {
+    "station": "KLRN"
+  },
+  {
+    "station": "KLRU / Austin PBS"
+  },
+  {
+    "station": "KLVX / Vegas PBS"
+  },
+  {
+    "station": "KMOS"
+  },
+  {
+    "station": "KNME / NMPBS"
+  },
+  {
+    "station": "KNPB / PBS Reno"
+  },
+  {
+    "station": "KOCE/ PBS SoCal/ Public Media Group of Southern California"
+  },
+  {
+    "station": "KOOD / Smoky Hills PBS"
+  },
+  {
+    "station": "KOZK / Ozarks Public Television"
+  },
+  {
+    "station": "KPBS"
+  },
+  {
+    "station": "KPBT / Basin PBS"
+  },
+  {
+    "station": "KPJK/Northern California Public Media"
+  },
+  {
+    "station": "KPTS / PBS Kansas"
+  },
+  {
+    "station": "KQED"
+  },
+  {
+    "station": "KQEH/KQED Plus"
+  },
+  {
+    "station": "KRCB/Northern California Public Media"
+  },
+  {
+    "station": "KRMA/Rocky Mountain PBS"
+  },
+  {
+    "station": "KRSU / RSU Public Television"
+  },
+  {
+    "station": "KRWG"
+  },
+  {
+    "station": "KSMQ"
+  },
+  {
+    "station": "KSPS PBS"
+  },
+  {
+    "station": "KSYS / Southern Oregon PBS"
+  },
+  {
+    "station": "TPT / Twin Cities PBS"
+  },
+  {
+    "station": "KTOO / Alaska Public Media"
+  },
+  {
+    "station": "KTTZ"
+  },
+  {
+    "station": "KTWU"
+  },
+  {
+    "station": "KUAC / University of Alaska"
+  },
+  {
+    "station": "KUAT / Arizona Public Media"
+  },
+  {
+    "station": "KUED / PBS Utah"
+  },
+  {
+    "station": "KUEN"
+  },
+  {
+    "station": "KUHT / Houston Public Media"
+  },
+  {
+    "station": "KVCR / Empire PBS"
+  },
+  {
+    "station": "PBS KVIE"
+  },
+  {
+    "station": "KVPT / ValleyPBS"
+  },
+  {
+    "station": "KWCM / Pioneer PBS"
+  },
+  {
+    "station": "KWSU / Northwest Public Broadcasting"
+  },
+  {
+    "station": "Louisiana Public Broadcasting"
+  },
+  {
+    "station": "Maine Public"
+  },
+  {
+    "station": "Maryland Public Television"
+  },
+  {
+    "station": "Mississippi Public Broadcasting"
+  },
+  {
+    "station": "Montana PBS"
+  },
+  {
+    "station": "PBS North Carolina"
+  },
+  {
+    "station": "Prairie Public"
+  },
+  {
+    "station": "Nebraska Public Media"
+  },
+  {
+    "station": "New Hampshire PBS"
+  },
+  {
+    "station": "NJTV"
+  },
+  {
+    "station": "Oklahoma Educational Television Authority"
+  },
+  {
+    "station": "Oregon Public Broadcasting"
+  },
+  {
+    "station": "South Carolina ETV"
+  },
+  {
+    "station": "South Dakota Public Broadcasting"
+  },
+  {
+    "station": "Vermont PBS"
+  },
+  {
+    "station": "WBGU"
+  },
+  {
+    "station": "WBRA / Blue Ridge PBS"
+  },
+  {
+    "station": "WCET"
+  },
+  {
+    "station": "WCFE / Mountain Lake PBS"
+  },
+  {
+    "station": "WCMU / CMU Public Broadcasting"
+  },
+  {
+    "station": "WCNY"
+  },
+  {
+    "station": "WCTE / Upper Cumberland PBS"
+  },
+  {
+    "station": "WCVE / VPM Media Corporation"
+  },
+  {
+    "station": "WDCQ / Delta Broadcasting"
+  },
+  {
+    "station": "WDSC"
+  },
+  {
+    "station": "WDSE"
+  },
+  {
+    "station": "WEDU PBS"
+  },
+  {
+    "station": "WEFS"
+  },
+  {
+    "station": "WEIU"
+  },
+  {
+    "station": "WETA"
+  },
+  {
+    "station": "WETP / East Tennessee PBS"
+  },
+  {
+    "station": "WFSU"
+  },
+  {
+    "station": "WFWA / PBS39"
+  },
+  {
+    "station": "WFYI"
+  },
+  {
+    "station": "WGBH"
+  },
+  {
+    "station": "WGBY / New England Public Media"
+  },
+  {
+    "station": "WGCU"
+  },
+  {
+    "station": "WGTE"
+  },
+  {
+    "station": "WGVU"
+  },
+  {
+    "station": "WHRO"
+  },
+  {
+    "station": "WHUT / Howard University Television"
+  },
+  {
+    "station": "WHYY"
+  },
+  {
+    "station": "WILL / Illinois Public Media"
+  },
+  {
+    "station": "WIPB / Ball State PBS"
+  },
+  {
+    "station": "WIPR"
+  },
+  {
+    "station": "PBS Wisconsin"
+  },
+  {
+    "station": "WITF"
+  },
+  {
+    "station": "WJCT / Jax PBS"
+  },
+  {
+    "station": "WKAR"
+  },
+  {
+    "station": "WKNO"
+  },
+  {
+    "station": "WKYU / WKU PBS"
+  },
+  {
+    "station": "WLAE / New Orleans Public Television"
+  },
+  {
+    "station": "WLIW 21"
+  },
+  {
+    "station": "WLJT / WestTN PBS"
+  },
+  {
+    "station": "WLRN"
+  },
+  {
+    "station": "WLVT / PBS39"
+  },
+  {
+    "station": "WMHT Educational Telecommunications"
+  },
+  {
+    "station": "WMTJ"
+  },
+  {
+    "station": "WMVS / Milwaukee Public Television"
+  },
+  {
+    "station": "WNED / Buffalo Toronto Public Media"
+  },
+  {
+    "station": "WNEO / Western Reserve Public Media"
+  },
+  {
+    "station": "WNET / New York Public Media"
+  },
+  {
+    "station": "WNIN"
+  },
+  {
+    "station": "WNIT"
+  },
+  {
+    "station": "WNMU"
+  },
+  {
+    "station": "WNPT/Nashville Public Television"
+  },
+  {
+    "station": "NYC Media Group/MOME"
+  },
+  {
+    "station": "WOSU"
+  },
+  {
+    "station": "WOUB"
+  },
+  {
+    "station": "WPBA / ATL PBA TV"
+  },
+  {
+    "station": "WPBS"
+  },
+  {
+    "station": "WPBT/South Florida PBS"
+  },
+  {
+    "station": "WPSU"
+  },
+  {
+    "station": "WPTD / Think TV"
+  },
+  {
+    "station": "WPTO / Think TV"
+  },
+  {
+    "station": "WQED"
+  },
+  {
+    "station": "WQLN"
+  },
+  {
+    "station": "WQPT"
+  },
+  {
+    "station": "WSBE / Rhode Island PBS"
+  },
+  {
+    "station": "WSIU"
+  },
+  {
+    "station": "WSKG Public Broadcasting"
+  },
+  {
+    "station": "WSRE"
+  },
+  {
+    "station": "WTCI"
+  },
+  {
+    "station": "WTIU"
+  },
+  {
+    "station": "WTJX"
+  },
+  {
+    "station": "WTTW"
+  },
+  {
+    "station": "WTVI / PBS Charlotte"
+  },
+  {
+    "station": "WTVP"
+  },
+  {
+    "station": "WTVS / Detroit Public Television"
+  },
+  {
+    "station": "WUCF"
+  },
+  {
+    "station": "WUFT"
+  },
+  {
+    "station": "WVIA"
+  },
+  {
+    "station": "West Virginia Public Broadcasting"
+  },
+  {
+    "station": "WVIZ / PBS ideastream"
+  },
+  {
+    "station": "WVPT / VPM Media Corporation"
+  },
+  {
+    "station": "WVUT"
+  },
+  {
+    "station": "WXEL/South Florida PBS"
+  },
+  {
+    "station": "WXXI"
+  },
+  {
+    "station": "WYES"
+  },
+  {
+    "station": "WYIN / Lakeshore PBS"
+  },
+  {
+    "station": "Wyoming PBS"
+  },
+  {
+    "station": "APT"
+  },
+  {
+    "station": "Arkansas PBS"
+  },
+  {
+    "station": "Connecticut Public"
+  },
+  {
+    "station": "Georgia Public Broadcasting"
+  },
+  {
+    "station": "PBS Hawaii"
+  },
+  {
+    "station": "Idaho Public Television PBS"
+  },
+  {
+    "station": "Iowa PBS"
+  },
+  {
+    "station": "KACV / Panhandle PBS"
+  }
+]

@@ -3,69 +3,55 @@ const Schema = mongoose.Schema
 
 const registrationSchema = new Schema({
     firstName: {
-        type: String,
-        required: true
+        type: String,        
     },
     lastName: {
-        type: String,
-        required: true
+        type: String,        
     },
     email: {
-        type: String,
-        required: true
+        type: String,        
     },
     confirmEmail: {
-        type: String,
-        required: true
+        type: String,        
     },
     jobTitle: {
-        type: String,
-        required: true
+        type: String,        
     },
-    station: {
+    station: {        
         type: Boolean,
     },
     address: {
-        type: String,
-        required: true
+        type: String,        
     },
     city: {
-        type: String,
-        required: true
+        type: String,        
     },
     state: {
-        type: String,
-        required: true
+        type: String,        
     },
     zip: {
-        type: String,
-        required: true
+        type: String,        
     },
     country: {
-        type: String,
-        required: true
+        type: String,        
     },
     phone: {
-        type: String,
-        required: true
+        type: Number,        
     },
     arrivalDate: {
-        type: Date,
-        required: true
+        type: Date,        
     },
     departureDate: {
-        type: Date,
-        required: true
+        type: Date,        
     },
-    firstTime: {
+    firstTime: {        
         type: Boolean,
     },
-    newcomers: {
+    newcomers: {        
         type: Boolean,
     },
     stayAtHotel: {
-        type: Boolean,
-        required: true
+        type: Boolean,        
     },
     totalEventCharge: {
         type: Number,

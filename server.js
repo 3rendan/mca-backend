@@ -2,6 +2,7 @@ require('dotenv').config()
 const express = require('express')
 const mongoose = require('mongoose')
 const regRoutes = require('./routes/registrations')
+const stationRoutes = require('./routes/stations')
 
 const app = express()
 
@@ -13,6 +14,7 @@ app.use((req, res, next) => {
 })
 
 app.use('/api/registrations', regRoutes)
+app.use('/api/stations', stationRoutes)
 
 app.get(('/'), (req, res) => {
     res.json({mssg: 'Welcome to the FM registration.'})
