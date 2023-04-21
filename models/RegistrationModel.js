@@ -38,6 +38,36 @@ const registrationSchema = new Schema({
     phone: {
         type: Number,        
     },
+    station: {
+        type: Boolean,
+    },
+    stationName: {
+        type: String,
+    },
+    workName: {
+        type: String,
+    },
+    workStreet: {
+        type: String,
+    },
+    workStreet: {
+        type: String,
+    },
+    workCity: {
+        type: String,
+    },
+    workState: {
+        type: String,
+    },
+    workCountry: {
+        type: String,
+    },
+    workZip: {
+        type: String,
+    },
+    workPhone: {
+        type: String,
+    },
     arrivalDate: {
         type: Date,        
     },
