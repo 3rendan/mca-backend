@@ -83,6 +83,24 @@ const registrationSchema = new Schema({
     stayAtHotel: {
         type: Boolean,        
     },
+    familyGuestName: {
+        type: String,
+    },
+    familyGuestEvent: {
+        type: [String],
+    },
+    businessGuestName1: {
+        type: String,
+    },
+    businessGuest1Events: {
+        type: [String],
+    },
+    businessGuestName2: {
+        type: String,
+    },
+    businessGuest2Events: {
+        type: [String],
+    },
     totalEventCharge: {
         type: Number,
     }

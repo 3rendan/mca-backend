@@ -42,7 +42,13 @@ const createRegistration = async(req, res) => {
         departureDate,
         firstTime,
         newcomers,
-        stayAtHotel
+        stayAtHotel,
+        familyGuestName,
+        familyGuestEvents,
+        businessGuestName1,
+        businessGuest1Events,
+        businessGuestName2,
+        businessGuest2Events
     } = req.body
     try {
         const registration = await Registration.create({ 
@@ -69,7 +75,13 @@ const createRegistration = async(req, res) => {
             departureDate,
             firstTime,
             newcomers,
-            stayAtHotel
+            stayAtHotel,
+            familyGuestName,
+            familyGuestEvents,
+            businessGuestName1,
+            businessGuest1Events,
+            businessGuestName2,
+            businessGuest2Events
         })
         res.status(200).json(registration)       
     } catch (error) {
