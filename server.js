@@ -4,6 +4,7 @@ const mongoose = require('mongoose')
 const regRoutes = require('./routes/registrations')
 const stationRoutes = require('./routes/stations')
 const tracRoutes = require('./routes/tracs')
+const programRoutes = require('./routes/programs')
 
 const app = express()
 
@@ -17,6 +18,7 @@ app.use((req, res, next) => {
 app.use('/api/registrations', regRoutes)
 app.use('/api/stations', stationRoutes)
 app.use('/api/tracs', tracRoutes)
+app.use('/api/programs', programRoutes)
 
 app.get(('/'), (req, res) => {
     res.json({mssg: 'Welcome to the FM registration.'})

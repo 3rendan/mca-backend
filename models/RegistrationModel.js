@@ -3,40 +3,46 @@ const Schema = mongoose.Schema
 
 const registrationSchema = new Schema({
     firstName: {
-        type: String,        
+        type: String,
+        required: true        
     },
     lastName: {
-        type: String,        
+        type: String,
+        required: true        
     },
     email: {
-        type: String,        
-    },
-    confirmEmail: {
-        type: String,        
+        type: String,
+        required: true        
     },
     jobTitle: {
-        type: String,        
+        type: String,
+        required: true        
     },
     station: {        
         type: Boolean,
     },
     address: {
-        type: String,        
+        type: String,
+        required: true        
     },
     city: {
-        type: String,        
+        type: String,
+        required: true        
     },
     state: {
-        type: String,        
+        type: String,
+        required: true        
     },
     zip: {
-        type: String,        
+        type: String,
+        required: true        
     },
     country: {
         type: String,        
     },
     phone: {
-        type: Number,        
+        type: String, 
+        required: true       
     },
     station: {
         type: Boolean,

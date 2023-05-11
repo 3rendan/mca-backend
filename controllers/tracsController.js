@@ -25,7 +25,8 @@ const createTrac = async(req, res) => {
       phone,
       email,
       period,
-      startDate
+      startDate,
+      termsOfUse
     } = req.body
     try {
         const trac = await Trac.create({ 
@@ -35,8 +36,8 @@ const createTrac = async(req, res) => {
             phone,
             email,
             period,
-            startDate
-
+            startDate,
+            termsOfUse
         })
         res.status(200).json(trac)       
     } catch (error) {

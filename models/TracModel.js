@@ -2,33 +2,33 @@ const mongoose = require('mongoose')
 const Schema = mongoose.Schema
 
 const tracSchema = new Schema({
-  program: {
+  ProgramID: {
     type: String,
-    required: true        
+            
   },
-  subscriberName: {
+  RequestorName: {
     type: String,
-    required: true        
+            
   },
-  title: {
+  RequestorTitle: {
     type: String,
-    required: true        
+            
   },
-  phone: {
+  RequestorPhone: {
     type: String,
-    required: true        
+            
   },
-  email: {
+  RequestorEmail: {
     type: String,
-    required: true        
+            
   },
-  period: {
+  Period: {
     type: String,
-    required: true        
+            
   },
-  startDate: {
+  StartDate: {
     type: String,
-    required: true        
+            
   }
 }, {timestamps: true})
 
