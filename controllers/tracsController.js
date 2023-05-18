@@ -19,25 +19,25 @@ const getTrac = async (req, res) => {
 
 const createTrac = async(req, res) => {
     const { 
-      program,
-      subscriberName,
-      title,
-      phone,
-      email,
-      period,
-      startDate,
-      termsOfUse
+        ProgramID,
+        RequestorName,
+        RequestorCompany,
+        RequestorTitle,
+        RequestorPhone,
+        RequestorEmail,
+        Period,
+        StartDate
     } = req.body
     try {
         const trac = await Trac.create({ 
-            program,
-            subscriberName,
-            title,
-            phone,
-            email,
-            period,
-            startDate,
-            termsOfUse
+            ProgramID,
+            RequestorName,
+            RequestorCompany,
+            RequestorTitle,
+            RequestorPhone,
+            RequestorEmail,
+            Period,
+            StartDate
         })
         res.status(200).json(trac)       
     } catch (error) {

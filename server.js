@@ -5,19 +5,20 @@ const regRoutes = require('./routes/registrations')
 const stationRoutes = require('./routes/stations')
 const tracRoutes = require('./routes/tracs')
 const programRoutes = require('./routes/programs')
+const bodyParser = require("body-parser")
 
 const app = express()
 
 app.use(express.json())
-
 app.use((req, res, next) => {
     console.log(res.path, res.method)
     next()
 })
+app.use(bodyParser.urlencoded({ extended: true }))
 
 app.use('/api/registrations', regRoutes)
 app.use('/api/stations', stationRoutes)
-app.use('/api/tracs', tracRoutes)
+app.use('/api/trac', tracRoutes)
 app.use('/api/programs', programRoutes)
 
 app.get(('/'), (req, res) => {
