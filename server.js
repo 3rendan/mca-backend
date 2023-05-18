@@ -18,7 +18,7 @@ app.use(bodyParser.urlencoded({ extended: true }))
 
 app.use('/api/registrations', regRoutes)
 app.use('/api/stations', stationRoutes)
-app.use('/api/trac', tracRoutes)
+app.use('/api/tracs', tracRoutes)
 app.use('/api/programs', programRoutes)
 
 app.get(('/'), (req, res) => {
