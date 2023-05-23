@@ -14,6 +14,7 @@ app.use((req, res, next) => {
     console.log(res.path, res.method)
     next()
 })
+// app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: true }))
 
 app.use('/api/registrations', regRoutes)

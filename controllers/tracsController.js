@@ -20,22 +20,22 @@ const getTrac = async (req, res) => {
 const createTrac = async(req, res) => {
     const { 
         ProgramID,
-        RequestorName,
-        RequestorCompany,
-        RequestorTitle,
-        RequestorPhone,
-        RequestorEmail,
+        RequesterName,
+        RequesterCompany,
+        RequesterTitle,
+        RequesterPhone,
+        RequesterEmail,
         Period,
         StartDate
     } = req.body
     try {
         const trac = await Trac.create({ 
             ProgramID,
-            RequestorName,
-            RequestorCompany,
-            RequestorTitle,
-            RequestorPhone,
-            RequestorEmail,
+            RequesterName,
+            RequesterCompany,
+            RequesterTitle,
+            RequesterPhone,
+            RequesterEmail,
             Period,
             StartDate
         })

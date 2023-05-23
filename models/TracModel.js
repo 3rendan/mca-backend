@@ -6,19 +6,19 @@ const tracSchema = new Schema({
     type: String,
     required: true
   },
-  RequestorName: {
+  RequesterName: {
     type: String,
     required: true
   },
-  RequestorTitle: {
+  RequesterTitle: {
     type: String,
     required: true
   },
-  RequestorPhone: {
+  RequesterPhone: {
     type: String,
     required: true
   },
-  RequestorEmail: {
+  RequesterEmail: {
     type: String,
     required: true
   },
