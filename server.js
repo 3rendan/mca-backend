@@ -35,7 +35,7 @@ app.get(('/'), (req, res) => {
 // // connect to mongoDB
 mongoose.connect(process.env.MONGO_URI)
     .then(() => {
-        app.listen(process.env.PORT, () => {
+        app.listen(5000, () => {
             const db = client.db('test')
             db.collection('tracs').createIndexes([
                 {
